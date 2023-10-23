@@ -1,4 +1,4 @@
-## <a href="https://kevinposada.es">Kevin Posada</a>
+<a href="https://kevinposada.es">Kevin Posada</a>
 
 Hello everyone! I'm Kevin Posada, and I'm studying the higher degree cycle on web application development 
 
